@@ -1,5 +1,5 @@
 <template>
-  <router-view />
+  <div>login组件</div>
 </template>
 
 <script setup lang="ts"></script>
